@@ -1,4 +1,4 @@
-# visitor_tracker
+# visitor_management_application
 
 A new Flutter project.
 
